@@ -17,7 +17,7 @@ Master of Science in Computer Science (MSCS)
 ## Research & Project Experience
 
 **Developer: C++ Agent-Based Simulation of Ant Colony Behavior** | Personal Project
-*(Specify Dates, e.g., January 2023 – December 2023)*
+*(January 2024 – March 2025)*
 * Developed a high-performance, multi-agent simulation in C++ to model complex ant colony dynamics, focusing on emergent object clustering and interaction behaviors.
 * Designed and implemented `Ant` agents with individual memory (simulating limited knowledge), probabilistic movement patterns, object manipulation capabilities (pickup/drop), and interaction cooldowns.
 * Created a `Ground` environment class managing spatial distribution of objects (Food, Waste, Eggs) and mediating ant interactions based on memory similarity and configurable thresholds.
