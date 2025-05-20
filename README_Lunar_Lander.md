@@ -1,6 +1,6 @@
 # DQN Agent for LunarLander-v2 using PyTorch
 
-![Demo Animation](images/lunar_lander_episode_6.gif)
+![Demo Animation](images/LunarLander.gif)
 
 
 This project implements a Deep Q-Network (DQN) agent to solve the `LunarLander-v2` environment from the [Gymnasium](https://gymnasium.farama.org/) library. The agent is built using PyTorch.
