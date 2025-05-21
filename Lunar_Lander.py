@@ -1,5 +1,5 @@
 """
-DQN Agent for Gymnasium's LunarLander-v2 Environment using PyTorch.
+DQN Agent for Gymnasium's LunarLander-v3 Environment using PyTorch.
 
 This script implements a Deep Q-Network (DQN) agent to solve the
 LunarLander-v3 environment. Key features include:
